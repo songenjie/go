@@ -1,1 +1,7 @@
-# go_log
+# go package
+
+```
+
+	author: songenjie
+
+```
